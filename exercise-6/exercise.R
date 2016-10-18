@@ -1,7 +1,8 @@
 # Exercise 6: DPLYR join introduction
 
 # Install the nycflights13 package and read it in. Require the dplyr package.
-# install.packages("nycflights13")
+install.packages("nycflights13")
+install.packages("dplyr")
 library(nycflights13)
 library(dplyr)
 
